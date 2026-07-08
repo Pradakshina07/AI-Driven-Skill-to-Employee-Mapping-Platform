@@ -153,7 +153,7 @@ AI-Career-Mentor/
 ├── vite.config.js
 ├── README.md
 ├── SETUP.md
-└── LICENSE
+
 ```
 # 🔌 API Reference
 
@@ -417,16 +417,6 @@ Special thanks to:
 * React Community
 * FastAPI Community
 * Open Source Contributors
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, modify, and distribute this project under the terms of the MIT License.
-
-For more details, refer to the **LICENSE** file included in the repository.
 
 ---
 
